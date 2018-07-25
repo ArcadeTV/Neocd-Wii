@@ -1,12 +1,23 @@
 # NeoCD-Wii
 
-NeoCD-Wii is a port of the NEO-CD REDUX GameCube emulator, originally coded by Softdev. This is a Neo-Geo CD emulator.
+NeoCD-Wii is a port of the NEO-CD REDUX GameCube emulator, originally coded by Softdev
+and ported to Wii by Wiimpathy (https://github.com/Wiimpathy/Neocd-Wii).
+This is a Neo-Geo CD emulator.
+
+Wiimpathy & Jacobeian did their best to improve this emulator but abandoned the project in Nov/2012.
+https://gbatemp.net/threads/neogeo-cd.299808/page-8#post-4466267
+
+
+## Why 
+
+I have absolutely zero experience in gx or coding for wii, but Neo Geo CD emulation on a cheap platform that looks like the real thing on both crt and fixed-pixel-devices seems to be a good reason to fork this repository, add some stuff to this readme and hoping get some help reviving this project.
 
 
 ## Installation
 
 Extract the zip on your SD card/USB drive. Create a folder and put your roms in it.
 In order to enable USB2 you need ios 202. 
+
 
 ### BIOS File
 
@@ -17,6 +28,7 @@ Working bios files:
 NeoCD.bin md5 f39572af7584cb5b3f70ae8cc848aba2 crc32 df9de490
 
 NeoCD.bin md5 11526d58d4c524daef7d5d677dc6b004 crc32 33697892
+
 
 ### MP3 MUSIC
 
